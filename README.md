@@ -1,2 +1,5 @@
 # hellow-world
-Just another repository
+
+Hello!
+
+JAT here, I'm learning about git.
